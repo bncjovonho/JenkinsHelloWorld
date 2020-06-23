@@ -6,6 +6,7 @@ public class Main {
         for(int var1 = 0; var1 < 1500; ++var1) {
             System.out.println(System.currentTimeMillis());
         }
+        System.out.println("WOWZERS");
 
     }
 }
